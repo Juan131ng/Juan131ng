@@ -1,5 +1,5 @@
 ## Hi👋，I'm Juan131ng.
-![test](https://img.shields.io/badge/Lang-JavaScript-yellowgreen)
+![test](https://img.shields.io/badge/Lang-c-yellowgreen)
 <!--
 **Juan131ng/Juan131ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
