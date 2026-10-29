@@ -1,5 +1,3 @@
-## Hola，这里卷饼.
-![test](https://img.shields.io/badge/Lang-c-yellowgreen) ![test](https://img.shields.io/badge/Lang-python-blue) ![test](https://img.shields.io/badge/Lang-html5-orange)
 <!--
 **Juan131ng/Juan131ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm a Software Engineering Developer 👋
+# Hola, I'm a Software Engineering Developer 👋
 
 你好！欢迎来到我的 GitHub 主页。
 
