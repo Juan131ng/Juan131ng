@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, I'm Danny 🐈‍⬛
-
-你好！欢迎来到我的 GitHub 主页。
+# Hola, I'm Danny.
 
 我是一名软件工程专业的学生，热衷于探索软件开发、全栈技术与人工智能应用。我喜欢将想法转化为实际项目，在实践中学习技术、解决问题，并持续完善自己的开发能力。
 
