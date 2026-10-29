@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-155EEF?style=flat-square&logoColor=white)
-
+<!--
 *The technologies listed above represent my development interests and working areas. My proficiency varies by technology.*
 
 ## 🚀 Featured Projects
