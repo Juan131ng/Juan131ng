@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, I'm a Software Engineering Developer 👋
+# Hola, I'm Danny 🐈‍⬛
 
 你好！欢迎来到我的 GitHub 主页。
 
