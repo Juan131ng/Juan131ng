@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 - 🎓 **Major:** Software Engineering
 - 💻 **Focus:** Full-Stack Development & AI Applications
+<!--
 - 🚀 **Interests:** Web Development, RAG, Knowledge Base Systems
 - 🌱 **Currently Learning:** Modern Web Technologies, Backend Development & AI Integration
 - ✨ **Goal:** Build useful products and write clean, maintainable code
-
+-->
 ## 🛠️ Tech Stack
 
 **Languages**
